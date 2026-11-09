@@ -80,6 +80,7 @@ These base assumptions form the reference point for the sensitivity analysis. In
 2. Open the Excel workbook included in the repository.
 3. Review the base assumptions and valuation calculations.
 4. Modify the selected assumptions to explore different scenarios.
+5. Observe the resulting changes in profitability.
 
 **Reference:** The base assumptions used in the valuation model were derived from the Institute of Actuaries of India (IAI) CM1B – Actuarial Mathematics Practice Examination Paper, September 2021.
 
