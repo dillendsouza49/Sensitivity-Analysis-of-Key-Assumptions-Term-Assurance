@@ -1,7 +1,5 @@
 # Sensitivity Analysis of Key Assumptions – Term Assurance
 
-## Project Description
-
 Sensitivity analysis of a Term Assurance product using Microsoft Excel to evaluate the impact of changes in premium, sum assured, and interest rate assumptions on product profitability.
 
 The objective is to identify key profitability drivers and understand how changes in individual assumptions influence the financial performance of the product.
@@ -82,7 +80,6 @@ These base assumptions form the reference point for the sensitivity analysis. In
 2. Open the Excel workbook included in the repository.
 3. Review the base assumptions and valuation calculations.
 4. Modify the selected assumptions to explore different scenarios.
-5. Observe the resulting changes in profitability and the corresponding sensitivity analysis charts.
 
 **Reference:** The base assumptions used in the valuation model were derived from the Institute of Actuaries of India (IAI) CM1B – Actuarial Mathematics Practice Examination Paper, September 2021.
 
